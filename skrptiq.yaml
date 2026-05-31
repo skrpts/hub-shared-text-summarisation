@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "f693b370-402f-4e85-9fdf-613a63fec720"
+name: "text-summarisation"
+display_name: "Text Summarisation"
+description: "Condenses long-form text into key points"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-text-summarisation"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
