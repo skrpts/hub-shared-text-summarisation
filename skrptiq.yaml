@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "f693b370-402f-4e85-9fdf-613a63fec720"
+id: "629fd2e9-56d6-4922-915c-8c011e0a8733"
 name: "text-summarisation"
 display_name: "Text Summarisation"
 description: "Condenses long-form text into key points"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
