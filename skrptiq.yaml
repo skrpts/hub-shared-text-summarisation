@@ -3,7 +3,7 @@ id: "629fd2e9-56d6-4922-915c-8c011e0a8733"
 name: "text-summarisation"
 display_name: "Text Summarisation"
 description: "Condenses long-form text into key points"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
